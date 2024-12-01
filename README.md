@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Efe</h1>
 <h3 align="center">Software Engineer Candidate</h3>
 
-- 📖 Third year student at Atılım University **Software Engineering Department**
+- 📖 Fourth year student at Atılım University **Software Engineering Department**
 
 - 🌱 I’m currently learning **JavaScript,React,ASP.NET**
 
